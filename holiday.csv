@@ -1,0 +1,351 @@
+,date,type,locale,locale_name,description,transferred
+0,2012-03-02,Holiday,Local,Manta,Fundacion de Manta,False
+1,2012-04-01,Holiday,Regional,Cotopaxi,Provincializacion de Cotopaxi,False
+2,2012-04-12,Holiday,Local,Cuenca,Fundacion de Cuenca,False
+3,2012-04-14,Holiday,Local,Libertad,Cantonizacion de Libertad,False
+4,2012-04-21,Holiday,Local,Riobamba,Cantonizacion de Riobamba,False
+5,2012-05-12,Holiday,Local,Puyo,Cantonizacion del Puyo,False
+6,2012-06-23,Holiday,Local,Guaranda,Cantonizacion de Guaranda,False
+7,2012-06-25,Holiday,Regional,Imbabura,Provincializacion de Imbabura,False
+8,2012-06-25,Holiday,Local,Latacunga,Cantonizacion de Latacunga,False
+9,2012-06-25,Holiday,Local,Machala,Fundacion de Machala,False
+10,2012-07-03,Holiday,Local,Santo Domingo,Fundacion de Santo Domingo,False
+11,2012-07-03,Holiday,Local,El Carmen,Cantonizacion de El Carmen,False
+12,2012-07-23,Holiday,Local,Cayambe,Cantonizacion de Cayambe,False
+13,2012-08-05,Holiday,Local,Esmeraldas,Fundacion de Esmeraldas,False
+14,2012-08-10,Holiday,National,Ecuador,Primer Grito de Independencia,False
+15,2012-08-15,Holiday,Local,Riobamba,Fundacion de Riobamba,False
+16,2012-08-24,Holiday,Local,Ambato,Fundacion de Ambato,False
+17,2012-09-28,Holiday,Local,Ibarra,Fundacion de Ibarra,False
+18,2012-10-07,Holiday,Local,Quevedo,Cantonizacion de Quevedo,False
+19,2012-10-09,Holiday,National,Ecuador,Independencia de Guayaquil,True
+20,2012-10-12,Transfer,National,Ecuador,Traslado Independencia de Guayaquil,False
+21,2012-11-02,Holiday,National,Ecuador,Dia de Difuntos,False
+22,2012-11-03,Holiday,National,Ecuador,Independencia de Cuenca,False
+23,2012-11-06,Holiday,Regional,Santo Domingo de los Tsachilas,Provincializacion de Santo Domingo,False
+24,2012-11-07,Holiday,Regional,Santa Elena,Provincializacion Santa Elena,False
+25,2012-11-10,Holiday,Local,Guaranda,Independencia de Guaranda,False
+26,2012-11-11,Holiday,Local,Latacunga,Independencia de Latacunga,False
+27,2012-11-12,Holiday,Local,Ambato,Independencia de Ambato,False
+28,2012-12-05,Additional,Local,Quito,Fundacion de Quito-1,False
+29,2012-12-06,Holiday,Local,Quito,Fundacion de Quito,False
+30,2012-12-08,Holiday,Local,Loja,Fundacion de Loja,False
+31,2012-12-21,Additional,National,Ecuador,Navidad-4,False
+32,2012-12-22,Holiday,Local,Salinas,Cantonizacion de Salinas,False
+33,2012-12-22,Additional,National,Ecuador,Navidad-3,False
+34,2012-12-23,Additional,National,Ecuador,Navidad-2,False
+35,2012-12-24,Bridge,National,Ecuador,Puente Navidad,False
+36,2012-12-24,Additional,National,Ecuador,Navidad-1,False
+37,2012-12-25,Holiday,National,Ecuador,Navidad,False
+38,2012-12-26,Additional,National,Ecuador,Navidad+1,False
+39,2012-12-31,Bridge,National,Ecuador,Puente Primer dia del ano,False
+40,2012-12-31,Additional,National,Ecuador,Primer dia del ano-1,False
+41,2013-01-01,Holiday,National,Ecuador,Primer dia del ano,False
+42,2013-01-05,Work Day,National,Ecuador,Recupero puente Navidad,False
+43,2013-01-12,Work Day,National,Ecuador,Recupero puente primer dia del ano,False
+44,2013-02-11,Holiday,National,Ecuador,Carnaval,False
+45,2013-02-12,Holiday,National,Ecuador,Carnaval,False
+46,2013-03-02,Holiday,Local,Manta,Fundacion de Manta,False
+47,2013-04-01,Holiday,Regional,Cotopaxi,Provincializacion de Cotopaxi,False
+48,2013-04-12,Holiday,Local,Cuenca,Fundacion de Cuenca,False
+49,2013-04-14,Holiday,Local,Libertad,Cantonizacion de Libertad,False
+50,2013-04-21,Holiday,Local,Riobamba,Cantonizacion de Riobamba,False
+51,2013-04-29,Holiday,National,Ecuador,Viernes Santo,False
+52,2013-05-01,Holiday,National,Ecuador,Dia del Trabajo,False
+53,2013-05-11,Additional,National,Ecuador,Dia de la Madre-1,False
+54,2013-05-12,Holiday,Local,Puyo,Cantonizacion del Puyo,False
+55,2013-05-12,Event,National,Ecuador,Dia de la Madre,False
+56,2013-05-24,Holiday,National,Ecuador,Batalla de Pichincha,False
+57,2013-06-23,Holiday,Local,Guaranda,Cantonizacion de Guaranda,False
+58,2013-06-25,Holiday,Regional,Imbabura,Provincializacion de Imbabura,False
+59,2013-06-25,Holiday,Local,Machala,Fundacion de Machala,False
+60,2013-06-25,Holiday,Local,Latacunga,Cantonizacion de Latacunga,False
+61,2013-07-03,Holiday,Local,El Carmen,Cantonizacion de El Carmen,False
+62,2013-07-03,Holiday,Local,Santo Domingo,Fundacion de Santo Domingo,False
+63,2013-07-23,Holiday,Local,Cayambe,Cantonizacion de Cayambe,False
+64,2013-07-24,Additional,Local,Guayaquil,Fundacion de Guayaquil-1,False
+65,2013-07-25,Holiday,Local,Guayaquil,Fundacion de Guayaquil,False
+66,2013-08-05,Holiday,Local,Esmeraldas,Fundacion de Esmeraldas,False
+67,2013-08-10,Holiday,National,Ecuador,Primer Grito de Independencia,False
+68,2013-08-15,Holiday,Local,Riobamba,Fundacion de Riobamba,False
+69,2013-08-24,Holiday,Local,Ambato,Fundacion de Ambato,False
+70,2013-09-28,Holiday,Local,Ibarra,Fundacion de Ibarra,False
+71,2013-10-07,Holiday,Local,Quevedo,Cantonizacion de Quevedo,False
+72,2013-10-09,Holiday,National,Ecuador,Independencia de Guayaquil,True
+73,2013-10-11,Transfer,National,Ecuador,Traslado Independencia de Guayaquil,False
+74,2013-11-02,Holiday,National,Ecuador,Dia de Difuntos,False
+75,2013-11-03,Holiday,National,Ecuador,Independencia de Cuenca,False
+76,2013-11-06,Holiday,Regional,Santo Domingo de los Tsachilas,Provincializacion de Santo Domingo,False
+77,2013-11-07,Holiday,Regional,Santa Elena,Provincializacion Santa Elena,False
+78,2013-11-10,Holiday,Local,Guaranda,Independencia de Guaranda,False
+79,2013-11-11,Holiday,Local,Latacunga,Independencia de Latacunga,False
+80,2013-11-12,Holiday,Local,Ambato,Independencia de Ambato,False
+81,2013-12-05,Additional,Local,Quito,Fundacion de Quito-1,False
+82,2013-12-06,Holiday,Local,Quito,Fundacion de Quito,False
+83,2013-12-08,Holiday,Local,Loja,Fundacion de Loja,False
+84,2013-12-21,Additional,National,Ecuador,Navidad-4,False
+85,2013-12-22,Additional,National,Ecuador,Navidad-3,False
+86,2013-12-22,Holiday,Local,Salinas,Cantonizacion de Salinas,False
+87,2013-12-23,Additional,National,Ecuador,Navidad-2,False
+88,2013-12-24,Additional,National,Ecuador,Navidad-1,False
+89,2013-12-25,Holiday,National,Ecuador,Navidad,False
+90,2013-12-26,Additional,National,Ecuador,Navidad+1,False
+91,2013-12-31,Additional,National,Ecuador,Primer dia del ano-1,False
+92,2014-01-01,Holiday,National,Ecuador,Primer dia del ano,False
+93,2014-03-02,Holiday,Local,Manta,Fundacion de Manta,False
+94,2014-03-03,Holiday,National,Ecuador,Carnaval,False
+95,2014-03-04,Holiday,National,Ecuador,Carnaval,False
+96,2014-04-01,Holiday,Regional,Cotopaxi,Provincializacion de Cotopaxi,False
+97,2014-04-12,Holiday,Local,Cuenca,Fundacion de Cuenca,False
+98,2014-04-14,Holiday,Local,Libertad,Cantonizacion de Libertad,False
+99,2014-04-18,Holiday,National,Ecuador,Viernes Santo,False
+100,2014-04-21,Holiday,Local,Riobamba,Cantonizacion de Riobamba,False
+101,2014-05-01,Holiday,National,Ecuador,Dia del Trabajo,False
+102,2014-05-10,Additional,National,Ecuador,Dia de la Madre-1,False
+103,2014-05-11,Event,National,Ecuador,Dia de la Madre,False
+104,2014-05-12,Holiday,Local,Puyo,Cantonizacion del Puyo,False
+105,2014-05-24,Holiday,National,Ecuador,Batalla de Pichincha,False
+106,2014-06-12,Event,National,Ecuador,Inauguracion Mundial de futbol Brasil,False
+107,2014-06-15,Event,National,Ecuador,Mundial de futbol Brasil: Ecuador-Suiza,False
+108,2014-06-20,Event,National,Ecuador,Mundial de futbol Brasil: Ecuador-Honduras,False
+109,2014-06-23,Holiday,Local,Guaranda,Cantonizacion de Guaranda,False
+110,2014-06-25,Holiday,Local,Latacunga,Cantonizacion de Latacunga,False
+111,2014-06-25,Holiday,Local,Machala,Fundacion de Machala,False
+112,2014-06-25,Holiday,Regional,Imbabura,Provincializacion de Imbabura,False
+113,2014-06-25,Event,National,Ecuador,Mundial de futbol Brasil: Ecuador-Francia,False
+114,2014-06-28,Event,National,Ecuador,Mundial de futbol Brasil: Octavos de Final,False
+115,2014-06-29,Event,National,Ecuador,Mundial de futbol Brasil: Octavos de Final,False
+116,2014-06-30,Event,National,Ecuador,Mundial de futbol Brasil: Octavos de Final,False
+117,2014-07-01,Event,National,Ecuador,Mundial de futbol Brasil: Octavos de Final,False
+118,2014-07-03,Holiday,Local,El Carmen,Cantonizacion de El Carmen,False
+119,2014-07-03,Holiday,Local,Santo Domingo,Fundacion de Santo Domingo,False
+120,2014-07-04,Event,National,Ecuador,Mundial de futbol Brasil: Cuartos de Final,False
+121,2014-07-05,Event,National,Ecuador,Mundial de futbol Brasil: Cuartos de Final,False
+122,2014-07-08,Event,National,Ecuador,Mundial de futbol Brasil: Semifinales,False
+123,2014-07-09,Event,National,Ecuador,Mundial de futbol Brasil: Semifinales,False
+124,2014-07-12,Event,National,Ecuador,Mundial de futbol Brasil: Tercer y cuarto lugar,False
+125,2014-07-13,Event,National,Ecuador,Mundial de futbol Brasil: Final,False
+126,2014-07-23,Holiday,Local,Cayambe,Cantonizacion de Cayambe,False
+127,2014-07-24,Additional,Local,Guayaquil,Fundacion de Guayaquil-1,False
+128,2014-07-25,Holiday,Local,Guayaquil,Fundacion de Guayaquil,False
+129,2014-08-05,Holiday,Local,Esmeraldas,Fundacion de Esmeraldas,False
+130,2014-08-10,Holiday,National,Ecuador,Primer Grito de Independencia,False
+131,2014-08-15,Holiday,Local,Riobamba,Fundacion de Riobamba,False
+132,2014-08-24,Holiday,Local,Ambato,Fundacion de Ambato,False
+133,2014-09-28,Holiday,Local,Ibarra,Fundacion de Ibarra,False
+134,2014-10-07,Holiday,Local,Quevedo,Cantonizacion de Quevedo,False
+135,2014-10-09,Holiday,National,Ecuador,Independencia de Guayaquil,True
+136,2014-10-10,Transfer,National,Ecuador,Traslado Independencia de Guayaquil,False
+137,2014-11-02,Holiday,National,Ecuador,Dia de Difuntos,False
+138,2014-11-03,Holiday,National,Ecuador,Independencia de Cuenca,False
+139,2014-11-06,Holiday,Regional,Santo Domingo de los Tsachilas,Provincializacion de Santo Domingo,False
+140,2014-11-07,Holiday,Regional,Santa Elena,Provincializacion Santa Elena,False
+141,2014-11-10,Holiday,Local,Guaranda,Independencia de Guaranda,False
+142,2014-11-11,Holiday,Local,Latacunga,Independencia de Latacunga,False
+143,2014-11-12,Holiday,Local,Ambato,Independencia de Ambato,False
+144,2014-11-28,Event,National,Ecuador,Black Friday,False
+145,2014-12-01,Event,National,Ecuador,Cyber Monday,False
+146,2014-12-05,Additional,Local,Quito,Fundacion de Quito-1,False
+147,2014-12-06,Holiday,Local,Quito,Fundacion de Quito,False
+148,2014-12-08,Holiday,Local,Loja,Fundacion de Loja,False
+149,2014-12-20,Work Day,National,Ecuador,Recupero Puente Navidad,False
+150,2014-12-21,Additional,National,Ecuador,Navidad-4,False
+151,2014-12-22,Holiday,Local,Salinas,Cantonizacion de Salinas,False
+152,2014-12-22,Additional,National,Ecuador,Navidad-3,False
+153,2014-12-23,Additional,National,Ecuador,Navidad-2,False
+154,2014-12-24,Additional,National,Ecuador,Navidad-1,False
+155,2014-12-25,Holiday,National,Ecuador,Navidad,False
+156,2014-12-26,Bridge,National,Ecuador,Puente Navidad,False
+157,2014-12-26,Additional,National,Ecuador,Navidad+1,False
+158,2014-12-31,Additional,National,Ecuador,Primer dia del ano-1,False
+159,2015-01-01,Holiday,National,Ecuador,Primer dia del ano,False
+160,2015-01-02,Bridge,National,Ecuador,Puente Primer dia del ano,False
+161,2015-01-10,Work Day,National,Ecuador,Recupero Puente Primer dia del ano,False
+162,2015-02-16,Holiday,National,Ecuador,Carnaval,False
+163,2015-02-17,Holiday,National,Ecuador,Carnaval,False
+164,2015-03-02,Holiday,Local,Manta,Fundacion de Manta,False
+165,2015-04-01,Holiday,Regional,Cotopaxi,Provincializacion de Cotopaxi,False
+166,2015-04-03,Holiday,National,Ecuador,Viernes Santo,False
+167,2015-04-12,Holiday,Local,Cuenca,Fundacion de Cuenca,False
+168,2015-04-14,Holiday,Local,Libertad,Cantonizacion de Libertad,False
+169,2015-04-21,Holiday,Local,Riobamba,Cantonizacion de Riobamba,False
+170,2015-05-01,Holiday,National,Ecuador,Dia del Trabajo,False
+171,2015-05-09,Additional,National,Ecuador,Dia de la Madre-1,False
+172,2015-05-10,Event,National,Ecuador,Dia de la Madre,False
+173,2015-05-12,Holiday,Local,Puyo,Cantonizacion del Puyo,False
+174,2015-05-24,Holiday,National,Ecuador,Batalla de Pichincha,False
+175,2015-06-23,Holiday,Local,Guaranda,Cantonizacion de Guaranda,False
+176,2015-06-25,Holiday,Local,Machala,Fundacion de Machala,False
+177,2015-06-25,Holiday,Regional,Imbabura,Provincializacion de Imbabura,False
+178,2015-06-25,Holiday,Local,Latacunga,Cantonizacion de Latacunga,False
+179,2015-07-03,Holiday,Local,El Carmen,Cantonizacion de El Carmen,False
+180,2015-07-03,Holiday,Local,Santo Domingo,Fundacion de Santo Domingo,False
+181,2015-07-23,Holiday,Local,Cayambe,Cantonizacion de Cayambe,False
+182,2015-07-24,Holiday,Local,Guayaquil,Fundacion de Guayaquil-1,False
+183,2015-07-25,Holiday,Local,Guayaquil,Fundacion de Guayaquil,False
+184,2015-08-05,Holiday,Local,Esmeraldas,Fundacion de Esmeraldas,False
+185,2015-08-10,Holiday,National,Ecuador,Primer Grito de Independencia,False
+186,2015-08-15,Holiday,Local,Riobamba,Fundacion de Riobamba,False
+187,2015-08-24,Holiday,Local,Ambato,Fundacion de Ambato,False
+188,2015-09-28,Holiday,Local,Ibarra,Fundacion de Ibarra,False
+189,2015-10-07,Holiday,Local,Quevedo,Cantonizacion de Quevedo,False
+190,2015-10-09,Holiday,National,Ecuador,Independencia de Guayaquil,False
+191,2015-11-02,Holiday,National,Ecuador,Dia de Difuntos,False
+192,2015-11-03,Holiday,National,Ecuador,Independencia de Cuenca,False
+193,2015-11-06,Holiday,Regional,Santo Domingo de los Tsachilas,Provincializacion de Santo Domingo,False
+194,2015-11-07,Holiday,Regional,Santa Elena,Provincializacion Santa Elena,False
+195,2015-11-10,Holiday,Local,Guaranda,Independencia de Guaranda,False
+196,2015-11-11,Holiday,Local,Latacunga,Independencia de Latacunga,False
+197,2015-11-12,Holiday,Local,Ambato,Independencia de Ambato,False
+198,2015-11-27,Event,National,Ecuador,Black Friday,False
+199,2015-11-30,Event,National,Ecuador,Cyber Monday,False
+200,2015-12-05,Additional,Local,Quito,Fundacion de Quito-1,False
+201,2015-12-06,Holiday,Local,Quito,Fundacion de Quito,False
+202,2015-12-08,Holiday,Local,Loja,Fundacion de Loja,False
+203,2015-12-21,Additional,National,Ecuador,Navidad-4,False
+204,2015-12-22,Additional,National,Ecuador,Navidad-3,False
+205,2015-12-22,Holiday,Local,Salinas,Cantonizacion de Salinas,False
+206,2015-12-23,Additional,National,Ecuador,Navidad-2,False
+207,2015-12-24,Additional,National,Ecuador,Navidad-1,False
+208,2015-12-25,Holiday,National,Ecuador,Navidad,False
+209,2015-12-26,Additional,National,Ecuador,Navidad+1,False
+210,2015-12-31,Additional,National,Ecuador,Primer dia del ano-1,False
+211,2016-01-01,Holiday,National,Ecuador,Primer dia del ano,False
+212,2016-02-08,Holiday,National,Ecuador,Carnaval,False
+213,2016-02-09,Holiday,National,Ecuador,Carnaval,False
+214,2016-03-02,Holiday,Local,Manta,Fundacion de Manta,False
+215,2016-03-25,Holiday,National,Ecuador,Viernes Santo,False
+216,2016-04-01,Holiday,Regional,Cotopaxi,Provincializacion de Cotopaxi,False
+217,2016-04-12,Holiday,Local,Cuenca,Fundacion de Cuenca,False
+218,2016-04-14,Holiday,Local,Libertad,Cantonizacion de Libertad,False
+219,2016-04-16,Event,National,Ecuador,Terremoto Manabi,False
+220,2016-04-17,Event,National,Ecuador,Terremoto Manabi+1,False
+221,2016-04-18,Event,National,Ecuador,Terremoto Manabi+2,False
+222,2016-04-19,Event,National,Ecuador,Terremoto Manabi+3,False
+223,2016-04-20,Event,National,Ecuador,Terremoto Manabi+4,False
+224,2016-04-21,Holiday,Local,Riobamba,Cantonizacion de Riobamba,False
+225,2016-04-21,Event,National,Ecuador,Terremoto Manabi+5,False
+226,2016-04-22,Event,National,Ecuador,Terremoto Manabi+6,False
+227,2016-04-23,Event,National,Ecuador,Terremoto Manabi+7,False
+228,2016-04-24,Event,National,Ecuador,Terremoto Manabi+8,False
+229,2016-04-25,Event,National,Ecuador,Terremoto Manabi+9,False
+230,2016-04-26,Event,National,Ecuador,Terremoto Manabi+10,False
+231,2016-04-27,Event,National,Ecuador,Terremoto Manabi+11,False
+232,2016-04-28,Event,National,Ecuador,Terremoto Manabi+12,False
+233,2016-04-29,Event,National,Ecuador,Terremoto Manabi+13,False
+234,2016-04-30,Event,National,Ecuador,Terremoto Manabi+14,False
+235,2016-05-01,Holiday,National,Ecuador,Dia del Trabajo,False
+236,2016-05-01,Event,National,Ecuador,Terremoto Manabi+15,False
+237,2016-05-02,Event,National,Ecuador,Terremoto Manabi+16,False
+238,2016-05-03,Event,National,Ecuador,Terremoto Manabi+17,False
+239,2016-05-04,Event,National,Ecuador,Terremoto Manabi+18,False
+240,2016-05-05,Event,National,Ecuador,Terremoto Manabi+19,False
+241,2016-05-06,Event,National,Ecuador,Terremoto Manabi+20,False
+242,2016-05-07,Additional,National,Ecuador,Dia de la Madre-1,False
+243,2016-05-07,Event,National,Ecuador,Terremoto Manabi+21,False
+244,2016-05-08,Event,National,Ecuador,Terremoto Manabi+22,False
+245,2016-05-08,Event,National,Ecuador,Dia de la Madre,False
+246,2016-05-09,Event,National,Ecuador,Terremoto Manabi+23,False
+247,2016-05-10,Event,National,Ecuador,Terremoto Manabi+24,False
+248,2016-05-11,Event,National,Ecuador,Terremoto Manabi+25,False
+249,2016-05-12,Holiday,Local,Puyo,Cantonizacion del Puyo,False
+250,2016-05-12,Event,National,Ecuador,Terremoto Manabi+26,False
+251,2016-05-13,Event,National,Ecuador,Terremoto Manabi+27,False
+252,2016-05-14,Event,National,Ecuador,Terremoto Manabi+28,False
+253,2016-05-15,Event,National,Ecuador,Terremoto Manabi+29,False
+254,2016-05-16,Event,National,Ecuador,Terremoto Manabi+30,False
+255,2016-05-24,Holiday,National,Ecuador,Batalla de Pichincha,True
+256,2016-05-27,Transfer,National,Ecuador,Traslado Batalla de Pichincha,False
+257,2016-06-23,Holiday,Local,Guaranda,Cantonizacion de Guaranda,False
+258,2016-06-25,Holiday,Local,Machala,Fundacion de Machala,False
+259,2016-06-25,Holiday,Regional,Imbabura,Provincializacion de Imbabura,False
+260,2016-06-25,Holiday,Local,Latacunga,Cantonizacion de Latacunga,False
+261,2016-07-03,Holiday,Local,El Carmen,Cantonizacion de El Carmen,False
+262,2016-07-03,Holiday,Local,Santo Domingo,Fundacion de Santo Domingo,False
+263,2016-07-23,Holiday,Local,Cayambe,Cantonizacion de Cayambe,False
+264,2016-07-24,Additional,Local,Guayaquil,Fundacion de Guayaquil-1,False
+265,2016-07-24,Transfer,Local,Guayaquil,Traslado Fundacion de Guayaquil,False
+266,2016-07-25,Holiday,Local,Guayaquil,Fundacion de Guayaquil,True
+267,2016-08-05,Holiday,Local,Esmeraldas,Fundacion de Esmeraldas,False
+268,2016-08-10,Holiday,National,Ecuador,Primer Grito de Independencia,True
+269,2016-08-12,Transfer,National,Ecuador,Traslado Primer Grito de Independencia,False
+270,2016-08-15,Holiday,Local,Riobamba,Fundacion de Riobamba,False
+271,2016-08-24,Holiday,Local,Ambato,Fundacion de Ambato,False
+272,2016-09-28,Holiday,Local,Ibarra,Fundacion de Ibarra,False
+273,2016-10-07,Holiday,Local,Quevedo,Cantonizacion de Quevedo,False
+274,2016-10-09,Holiday,National,Ecuador,Independencia de Guayaquil,False
+275,2016-11-02,Holiday,National,Ecuador,Dia de Difuntos,False
+276,2016-11-03,Holiday,National,Ecuador,Independencia de Cuenca,False
+277,2016-11-04,Bridge,National,Ecuador,Puente Dia de Difuntos,False
+278,2016-11-06,Holiday,Regional,Santo Domingo de los Tsachilas,Provincializacion de Santo Domingo,False
+279,2016-11-07,Holiday,Regional,Santa Elena,Provincializacion Santa Elena,False
+280,2016-11-10,Holiday,Local,Guaranda,Independencia de Guaranda,False
+281,2016-11-11,Holiday,Local,Latacunga,Independencia de Latacunga,False
+282,2016-11-12,Holiday,Local,Ambato,Independencia de Ambato,False
+283,2016-11-12,Work Day,National,Ecuador,Recupero Puente Dia de Difuntos,False
+284,2016-11-25,Event,National,Ecuador,Black Friday,False
+285,2016-11-28,Event,National,Ecuador,Cyber Monday,False
+286,2016-12-05,Additional,Local,Quito,Fundacion de Quito-1,False
+287,2016-12-06,Holiday,Local,Quito,Fundacion de Quito,False
+288,2016-12-08,Holiday,Local,Loja,Fundacion de Loja,False
+289,2016-12-21,Additional,National,Ecuador,Navidad-4,False
+290,2016-12-22,Additional,National,Ecuador,Navidad-3,False
+291,2016-12-22,Holiday,Local,Salinas,Cantonizacion de Salinas,False
+292,2016-12-23,Additional,National,Ecuador,Navidad-2,False
+293,2016-12-24,Additional,National,Ecuador,Navidad-1,False
+294,2016-12-25,Holiday,National,Ecuador,Navidad,False
+295,2016-12-26,Additional,National,Ecuador,Navidad+1,False
+296,2016-12-31,Additional,National,Ecuador,Primer dia del ano-1,False
+297,2017-01-01,Holiday,National,Ecuador,Primer dia del ano,True
+298,2017-01-02,Transfer,National,Ecuador,Traslado Primer dia del ano,False
+299,2017-02-27,Holiday,National,Ecuador,Carnaval,False
+300,2017-02-28,Holiday,National,Ecuador,Carnaval,False
+301,2017-03-02,Holiday,Local,Manta,Fundacion de Manta,False
+302,2017-04-01,Holiday,Regional,Cotopaxi,Provincializacion de Cotopaxi,False
+303,2017-04-12,Holiday,Local,Cuenca,Fundacion de Cuenca,True
+304,2017-04-13,Transfer,Local,Cuenca,Fundacion de Cuenca,False
+305,2017-04-14,Holiday,Local,Libertad,Cantonizacion de Libertad,False
+306,2017-04-14,Holiday,National,Ecuador,Viernes Santo,False
+307,2017-04-21,Holiday,Local,Riobamba,Cantonizacion de Riobamba,False
+308,2017-05-01,Holiday,National,Ecuador,Dia del Trabajo,False
+309,2017-05-12,Holiday,Local,Puyo,Cantonizacion del Puyo,False
+310,2017-05-13,Additional,National,Ecuador,Dia de la Madre-1,False
+311,2017-05-14,Event,National,Ecuador,Dia de la Madre,False
+312,2017-05-24,Holiday,National,Ecuador,Batalla de Pichincha,True
+313,2017-05-26,Transfer,National,Ecuador,Traslado Batalla de Pichincha,False
+314,2017-06-23,Holiday,Local,Guaranda,Cantonizacion de Guaranda,False
+315,2017-06-25,Holiday,Regional,Imbabura,Provincializacion de Imbabura,False
+316,2017-06-25,Holiday,Local,Latacunga,Cantonizacion de Latacunga,False
+317,2017-06-25,Holiday,Local,Machala,Fundacion de Machala,False
+318,2017-07-03,Holiday,Local,El Carmen,Cantonizacion de El Carmen,False
+319,2017-07-03,Holiday,Local,Santo Domingo,Fundacion de Santo Domingo,False
+320,2017-07-23,Holiday,Local,Cayambe,Cantonizacion de Cayambe,False
+321,2017-07-24,Additional,Local,Guayaquil,Fundacion de Guayaquil-1,False
+322,2017-07-25,Additional,Local,Guayaquil,Fundacion de Guayaquil,False
+323,2017-08-05,Holiday,Local,Esmeraldas,Fundacion de Esmeraldas,False
+324,2017-08-10,Holiday,National,Ecuador,Primer Grito de Independencia,True
+325,2017-08-11,Transfer,National,Ecuador,Traslado Primer Grito de Independencia,False
+326,2017-08-15,Holiday,Local,Riobamba,Fundacion de Riobamba,False
+327,2017-08-24,Holiday,Local,Ambato,Fundacion de Ambato,False
+328,2017-09-28,Holiday,Local,Ibarra,Fundacion de Ibarra,True
+329,2017-09-29,Transfer,Local,Ibarra,Fundacion de Ibarra,False
+330,2017-10-07,Holiday,Local,Quevedo,Cantonizacion de Quevedo,False
+331,2017-10-09,Holiday,National,Ecuador,Independencia de Guayaquil,False
+332,2017-11-02,Holiday,National,Ecuador,Dia de Difuntos,False
+333,2017-11-03,Holiday,National,Ecuador,Independencia de Cuenca,False
+334,2017-11-06,Holiday,Regional,Santo Domingo de los Tsachilas,Provincializacion de Santo Domingo,False
+335,2017-11-07,Holiday,Regional,Santa Elena,Provincializacion Santa Elena,False
+336,2017-11-10,Holiday,Local,Guaranda,Independencia de Guaranda,False
+337,2017-11-11,Holiday,Local,Latacunga,Independencia de Latacunga,False
+338,2017-11-12,Holiday,Local,Ambato,Independencia de Ambato,False
+339,2017-12-05,Additional,Local,Quito,Fundacion de Quito-1,False
+340,2017-12-06,Holiday,Local,Quito,Fundacion de Quito,True
+341,2017-12-08,Holiday,Local,Loja,Fundacion de Loja,False
+342,2017-12-08,Transfer,Local,Quito,Traslado Fundacion de Quito,False
+343,2017-12-21,Additional,National,Ecuador,Navidad-4,False
+344,2017-12-22,Holiday,Local,Salinas,Cantonizacion de Salinas,False
+345,2017-12-22,Additional,National,Ecuador,Navidad-3,False
+346,2017-12-23,Additional,National,Ecuador,Navidad-2,False
+347,2017-12-24,Additional,National,Ecuador,Navidad-1,False
+348,2017-12-25,Holiday,National,Ecuador,Navidad,False
+349,2017-12-26,Additional,National,Ecuador,Navidad+1,False
