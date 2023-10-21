@@ -1,6 +1,6 @@
 # Time Series Forecasting Analysis For Corporation Favorita ⏰
 
-Welcome to the **Time Series ML Project**, where we dive into time series forecasting while adhering to the CRISP-DM framework. Our mission is to predict store sales using data from Corporation Favorita, a major grocery retailer in Ecuador. We aim to develop a model that provides precise predictions for the unit sales of various items sold across different Favorita stores.
+Welcome to the **Time Series Forecasting Project**. The mission is to predict store sales using data from Corporation Favorita, a major grocery retailer in Ecuador, using Machine Learning techniques.
 
 ![Python Version](https://img.shields.io/badge/Python-3.11-blue)
 ![Data Analysis](https://img.shields.io/badge/Data-Analysis-yellow)
@@ -130,13 +130,13 @@ Follow these steps for installation:
    pip install -r requirements.txt
    ```
 
-You're now ready to dive into this exciting data journey with us!
+You're now ready to dive into this exciting data journey!
 
 ## Author 👨‍💼
 
-| Name                | Article Link                                                                                                                                                                                                                                   | Github |
+| Name                | Article Link                                                                                                                                                                                                                                   | App Deployment |
 | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------- |
-| Chidiebere David Ogbonna | [TIME SERIES FORECASTING ANALYSIS FOR CORPORATION FAVORITA](https://eberedavid.medium.com/time-series-forecasting-analysis-for-corporation-favorita-4e43df145e50) |[Time-Series-Forecasting-Analysis-For-Corporation-Favorita](https://github.com/iameberedavid/Time-Series-Forecasting-Analysis-For-Corporation-Favorita)|
+| Chidiebere David Ogbonna | [TIME SERIES FORECASTING ANALYSIS FOR CORPORATION FAVORITA](https://eberedavid.medium.com/time-series-forecasting-analysis-for-corporation-favorita-4e43df145e50) |[Embed-Corporation-Favorita-Timeseries-Model-To-Streamlit](https://github.com/iameberedavid/Embed-Corporation-Favorita-Timeseries-Model-To-Streamlit)|
 |                          |                                                                                                                                                                                                                                            |        |
 
 ## Acknowledgments 🙏
