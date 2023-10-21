@@ -134,9 +134,9 @@ You're now ready to dive into this exciting data journey!
 
 ## Author 👨‍💼
 
-| Name                | Article Link                                                                                                                                                                                                                                   | App Deployment |
+| LinkedIN                | Medium Article                                                                                                                                                                                                                                   | App Deployment |
 | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------- |
-| Chidiebere David Ogbonna | [TIME SERIES FORECASTING ANALYSIS FOR CORPORATION FAVORITA](https://eberedavid.medium.com/time-series-forecasting-analysis-for-corporation-favorita-4e43df145e50) |[Embed-Corporation-Favorita-Timeseries-Model-To-Streamlit](https://github.com/iameberedavid/Embed-Corporation-Favorita-Timeseries-Model-To-Streamlit)|
+| [Chidiebere David Ogbonna](https://www.linkedin.com/in/chidieberedavidogbonna/) | [TIME SERIES FORECASTING ANALYSIS FOR CORPORATION FAVORITA](https://eberedavid.medium.com/time-series-forecasting-analysis-for-corporation-favorita-4e43df145e50) |[Embed-Corporation-Favorita-Timeseries-Model-To-Streamlit](https://github.com/iameberedavid/Embed-Corporation-Favorita-Timeseries-Model-To-Streamlit)|
 |                          |                                                                                                                                                                                                                                            |        |
 
 ## Acknowledgments 🙏
