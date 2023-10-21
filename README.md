@@ -36,7 +36,7 @@ The objective is to develop a robust model capable of accurately forecasting fut
 I will utilize the CRISP-DM framework to execute the project.
 
 
-## Project Overview 📸
+## Project Overview 🖼
 
 The project includes the following stages:
 
@@ -83,7 +83,7 @@ N/B: The datasets from the sources above where saved in the root folder of this 
 ### 5. ⚙️ Feature Engineering
 
 - Data Splitting
-- Feature encoding with OneHotEncoder
+- Feature Encoding with OneHotEncoder
 - Feature Scaling with MinMaxScaler
 
 ### 6. ⌛ Model Training
@@ -136,7 +136,7 @@ You're now ready to dive into this exciting data journey with us!
 
 | Name                | Article Link                                                                                                                                                                                                                                   | Github |
 | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------- |
-| Chidiebere David Ogbonna | [TIME SERIES FORECASTING ANALYSIS FOR CORPORATION FAVORITA](https://eberedavid.medium.com/time-series-forecasting-analysis-for-corporation-favorita-4e43df145e50) |        |
+| Chidiebere David Ogbonna | [TIME SERIES FORECASTING ANALYSIS FOR CORPORATION FAVORITA](https://eberedavid.medium.com/time-series-forecasting-analysis-for-corporation-favorita-4e43df145e50) |[Time-Series-Forecasting-Analysis-For-Corporation-Favorita](https://github.com/iameberedavid/Time-Series-Forecasting-Analysis-For-Corporation-Favorita)|
 |                          |                                                                                                                                                                                                                                            |        |
 
 ## Acknowledgments 🙏
