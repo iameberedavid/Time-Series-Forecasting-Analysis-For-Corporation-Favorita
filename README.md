@@ -42,7 +42,8 @@ The project includes the following stages:
 
 ### 1. 📥 Data Collection
 
-- Azubi Africa's SQL Server database, GitHub repository and OneDrive
+- Azubi Africa's SQL Server database, GitHub repository and OneDrive.
+
 N/B: The datasets from the sources above where saved in the root folder of this repository for easy access
 
 ### 2. 📚 Data Loading
