@@ -132,14 +132,14 @@ Follow these steps for installation:
 
 You're now ready to dive into this exciting data journey!
 
-## Author 🤵🏽
+## Author 👨‍💼
 
 | LinkedIn                | Medium Article                                                                                                                                                                                                                                   | App Deployment |
 | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------- |
 | [Chidiebere David Ogbonna](https://www.linkedin.com/in/chidieberedavidogbonna/) | [TIME SERIES FORECASTING ANALYSIS FOR CORPORATION FAVORITA](https://eberedavid.medium.com/time-series-forecasting-analysis-for-corporation-favorita-4e43df145e50) |[Embed-Corporation-Favorita-Timeseries-Model-To-Streamlit](https://github.com/iameberedavid/Embed-Corporation-Favorita-Timeseries-Model-To-Streamlit)|
 |                          |                                                                                                                                                                                                                                            |        |
 
-## Acknowledgments 🙌🏼
+## Acknowledgments 🙏
 
 I would like to express my gratitude to the [Azubi Africa Data Analyst Program](https://www.azubiafrica.org/data-analytics) for their support and for offering valuable projects as part of this program. Not forgeting my scrum masters on this project [Rachel Appiah-Kubi](https://www.linkedin.com/in/racheal-appiah-kubi/) & [Emmanuel Koupoh](https://github.com/eaedk)
 
