@@ -58,7 +58,7 @@ N/B: The datasets from the sources above where saved in the root folder of this 
 - Handling missing values
 - Renaming Columns and Changing Datatypes
 - Creating new features
-- Visual analysis
+- Visualizations
 - Hypothesis testing
 - ADF Testing
 
@@ -113,9 +113,9 @@ N/B: The datasets from the sources above where saved in the root folder of this 
 - pickle
 - save_model
 
-## App Deployment 📲
+## Deployment 📲
 
-The model was embedded into a streamlit app and made available for public usage in this GitHub repository: [Embed-Corporation-Favorita-Timeseries-Model-To-Streamlit](https://github.com/iameberedavid/Embed-Corporation-Favorita-Timeseries-Model-To-Streamlit).
+The model was embedded into a streamlit app and deployed for public usage. This was done in this GitHub repository: [Embed-Corporation-Favorita-Timeseries-Model-To-Streamlit](https://github.com/iameberedavid/Embed-Corporation-Favorita-Timeseries-Model-To-Streamlit). The deployment process was discussed in this medium article: [EMBEDDING TIMESERIES FORECASTING ANALYSIS MODEL TO STREAMLIT](https://eberedavid.medium.com/embedding-timeseries-forecasting-analysis-for-corporation-favorita-model-to-streamlit-eefe13bf8bf2).
 
 ## Installation and Setup 🔧
 
