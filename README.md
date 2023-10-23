@@ -113,6 +113,10 @@ N/B: The datasets from the sources above where saved in the root folder of this 
 - pickle
 - save_model
 
+## App Deployment 📲
+
+The model was embedded into a streamlit app and made available for public usage in this GitHub repository: [Embed-Corporation-Favorita-Timeseries-Model-To-Streamlit](https://github.com/iameberedavid/Embed-Corporation-Favorita-Timeseries-Model-To-Streamlit).
+
 ## Installation and Setup 🔧
 
 To get started with this project, you'll need to install the following Python packages using `pip`:
@@ -134,9 +138,9 @@ You're now ready to dive into this exciting data journey!
 
 ## Author 👨‍💼
 
-| LinkedIn                | Medium Article                                                                                                                                                                                                                                   | App Deployment |
+| Name                | LinkedIn                                                                                                                                                                                                                                   | Medium Article |
 | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------- |
-| [Chidiebere David Ogbonna](https://www.linkedin.com/in/chidieberedavidogbonna/) | [TIME SERIES FORECASTING ANALYSIS FOR CORPORATION FAVORITA](https://eberedavid.medium.com/time-series-forecasting-analysis-for-corporation-favorita-4e43df145e50) |[Embed-Corporation-Favorita-Timeseries-Model-To-Streamlit](https://github.com/iameberedavid/Embed-Corporation-Favorita-Timeseries-Model-To-Streamlit)|
+| Chidiebere David Ogbonna | [Chidiebere David Ogbonna](https://www.linkedin.com/in/chidieberedavidogbonna/) |[TIME SERIES FORECASTING ANALYSIS FOR CORPORATION FAVORITA](https://eberedavid.medium.com/time-series-forecasting-analysis-for-corporation-favorita-4e43df145e50)|
 |                          |                                                                                                                                                                                                                                            |        |
 
 ## Acknowledgments 🙏
