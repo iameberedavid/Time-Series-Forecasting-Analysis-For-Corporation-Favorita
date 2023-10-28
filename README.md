@@ -141,7 +141,7 @@ You're now ready to dive into this exciting data journey!
 
 ## App Deployment 📲
 
-The model was embedded into a streamlit app and deployed for public usage. This was done in this GitHub repository: [Embed-Corporation-Favorita-Timeseries-Model-To-Streamlit](https://github.com/iameberedavid/Embed-Corporation-Favorita-Timeseries-Model-To-Streamlit). The deployment process was discussed in this medium article: [EMBEDDING TIMESERIES FORECASTING ANALYSIS MODEL TO STREAMLIT](https://eberedavid.medium.com/embedding-timeseries-forecasting-analysis-for-corporation-favorita-model-to-streamlit-eefe13bf8bf2).
+The model was embedded into a streamlit app and deployed for public usage. This was done in this GitHub repository: [Embed-Corporation-Favorita-Timeseries-Model-To-Streamlit](https://github.com/iameberedavid/Embed-Corporation-Favorita-Timeseries-Model-To-Streamlit). The deployment process was discussed in this medium article: [BUILDING A USER-FRIENDLY SALES PREDICTION APP USING STREAMLIT AND HUGGINGFACE](https://eberedavid.medium.com/embedding-timeseries-forecasting-analysis-for-corporation-favorita-model-to-streamlit-eefe13bf8bf2).
 
 ## Acknowledgments 🙏
 
