@@ -156,6 +156,10 @@ I went further to explain the work process of this project in an article publish
 
 The model was embedded into a streamlit app and deployed for public usage. This was done in this GitHub repository: [Embed-Corporation-Favorita-Timeseries-Model-To-Streamlit](https://github.com/iameberedavid/Embed-Corporation-Favorita-Timeseries-Model-To-Streamlit). The deployment process was discussed in this medium article: [BUILDING A USER-FRIENDLY SALES PREDICTION APP USING STREAMLIT AND HUGGINGFACE](https://eberedavid.medium.com/embedding-timeseries-forecasting-analysis-for-corporation-favorita-model-to-streamlit-eefe13bf8bf2).
 
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
+
 ## Acknowledgments 🙏
 
 I would like to express my gratitude to the [Azubi Africa Data Analyst Program](https://www.azubiafrica.org/data-analytics) for their support and for offering valuable projects as part of this program. Not forgeting my scrum masters on this project [Rachel Appiah-Kubi](https://www.linkedin.com/in/racheal-appiah-kubi/) & [Emmanuel Koupoh](https://github.com/eaedk)
