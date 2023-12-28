@@ -107,7 +107,11 @@ N/B: The datasets from the sources above where saved in the root folder of this 
 
 - RandomSearchCV
 
-### 9. 💭 Exportation
+### 9. 🤔 Prediction on Validation Set
+
+### 10. 📒 Prediction on Test Dataset
+
+### 11. 💭 Exportation
 
 - os
 - pickle
