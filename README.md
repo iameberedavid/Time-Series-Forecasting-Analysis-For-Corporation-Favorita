@@ -134,10 +134,23 @@ You're now ready to dive into this exciting data journey!
 
 ## Author 👨‍💼
 
-| Name                | LinkedIn                                                                                                                                                                                                                                   | Medium Article |
-| ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------- |
-| Chidiebere David Ogbonna | [Chidiebere David Ogbonna](https://www.linkedin.com/in/chidieberedavidogbonna/) |[TIME SERIES FORECASTING ANALYSIS FOR CORPORATION FAVORITA](https://eberedavid.medium.com/time-series-forecasting-analysis-for-corporation-favorita-4e43df145e50)|
-|                          |                                                                                                                                                                                                                                            |        |
+This project was built by **Chidiebere David Ogbonna**.
+
+Here are his details:
+
+![Author](Images/Author.jpg)
+
+| Detail | Link |
+| ------ | ---- |
+| Email | eberedavid326@gmail.com |
+| LinkedIn | [chidieberedavidogbonna](https://www.linkedin.com/in/chidieberedavidogbonna/) |
+| GitHub | [iameberedavid](https://github.com/iameberedavid) |
+| Medium | [eberedavid](https://eberedavid.medium.com) |
+| Twitter | [iameberedavid](https://twitter.com/iameberedavid) |
+
+## Article Publication 📄
+
+I went further to explain the work process of this project in an article published on Medium. Click on this link to find the article: [TIME SERIES FORECASTING ANALYSIS FOR CORPORATION FAVORITA](https://eberedavid.medium.com/time-series-forecasting-analysis-for-corporation-favorita-4e43df145e50).
 
 ## App Deployment 📲
 
