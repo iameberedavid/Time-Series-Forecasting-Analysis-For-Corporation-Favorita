@@ -2,10 +2,10 @@
 
 Welcome to the **Time Series Forecasting Project**. The mission is to predict store sales using data from Corporation Favorita, a major grocery retailer in Ecuador, using Machine Learning techniques.
 
-![Python Version](https://img.shields.io/badge/Python-3.11-blue)
-![Data Analysis](https://img.shields.io/badge/Data-Analysis-yellow)
-![Data Visualization](https://img.shields.io/badge/Data-Visualization-orange)
-![Hypothesis Testing](https://img.shields.io/badge/Hypothesis-Testing-brightgreen)
+![Python Version](https://img.shields.io/badge/Python-3.11-blueviolet)
+![Data Analysis](https://img.shields.io/badge/Data-Analysis-blueviolet)
+![Data Visualization](https://img.shields.io/badge/Data-Visualization-blueviolet)
+![Hypothesis Testing](https://img.shields.io/badge/Hypothesis-Testing-blueviolet)
 ![Machine Learning](https://img.shields.io/badge/Machine-Learning-blueviolet)
 
 ## Preview 🔍
