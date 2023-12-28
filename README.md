@@ -162,7 +162,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Acknowledgments 🙏
 
-I would like to express my gratitude to the [Azubi Africa Data Analyst Program](https://www.azubiafrica.org/data-analytics) for their support and for offering valuable projects as part of this program. Not forgeting my scrum masters on this project [Rachel Appiah-Kubi](https://www.linkedin.com/in/racheal-appiah-kubi/) & [Emmanuel Koupoh](https://github.com/eaedk)
+I would like to express my gratitude to the [Azubi Africa Data Analyst Program](https://www.azubiafrica.org/data-analytics) for offering valuable projects as part of this program. Not forgeting my scrum masters [Rachel Appiah-Kubi](https://github.com/coderacheal) & [Emmanuel Koupoh](https://github.com/eaedk) for their support throughout this program.
 
 ## Contact
 
