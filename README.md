@@ -164,6 +164,6 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 I would like to express my gratitude to the [Azubi Africa Data Analyst Program](https://www.azubiafrica.org/data-analytics) for their support and for offering valuable projects as part of this program. Not forgeting my scrum masters on this project [Rachel Appiah-Kubi](https://www.linkedin.com/in/racheal-appiah-kubi/) & [Emmanuel Koupoh](https://github.com/eaedk)
 
-## Contact 📧
+## Contact
 
-For questions, feedback, and collaborations, please contact [Chidiebere David Ogbonna](eberedavid326@gmail.com).
+Feel free to send your reviews, suggestions, questions and collaboration requests to eberedavid326@gmail.com
